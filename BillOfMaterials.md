@@ -2,4 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|WatHai 4020 Blower Fan|1|$13.99|[Amazon](https://www.amazon.com/dp/B0FSL1V1X3?tag=maslowcnc01-20)|
+|Total: |1|$13.99| |
